@@ -14,17 +14,13 @@ const LANGUAGES = {
         name: '英文',
         code: 'US'
     },
-    fr: {
-        name: '法文',
-        code: 'FR'
+    jp: {
+        name: '日文',
+        code: 'JP'
     },
-    ru: {
-        name: '俄文',
-        code: 'RU'
-    },
-    es: {
-        name: '西班牙文',
-        code: 'ES'
+    kr: {
+        name: '韩文',
+        code: 'KR'        
     },
 };
 
